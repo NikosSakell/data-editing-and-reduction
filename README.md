@@ -1,4 +1,6 @@
-**Programming Project 1 – Data Editing and Reduction
+Programming Project 1 – Data Editing and Reduction
+____________
+Instructions:
 Choose your preferred programming language (Python, R, Java, C, Perl, SQL, etc) and implement three
 programs with the following requirements:
 1. Assume that the training datasets are csv files comprised of numerical attributes only with the 
