@@ -1,3 +1,5 @@
+Knowledge Discovery from Databases
+____________
 Programming Project 1 – Data Editing and Reduction
 ____________
 Instructions:
