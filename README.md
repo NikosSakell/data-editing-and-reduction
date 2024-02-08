@@ -19,3 +19,29 @@ Instructions:
   (a) your code (for compiled languages like Java, C, etc., also submit the executable files), 
   (b) the edited datasets (irisENN.csv and letter-recognitionENN.csv), and, 
   (c) the reduced datasets (irisIB2.csv and letter-recognitionIB2.csv).
+___________
+Execution instructions for Python code
+
+Files:
+
+Value normalization:
+normalize-values.py
+
+ENN Algorithm
+
+Execute in the console, by typing after the .py file the path of the input file and the path of the output file:
+
+e.g.
+python enn.py NormalizeValuesOutput\iris-normalized-output.csv iris-enn-output.csv
+python enn.py NormalizeValuesOutput\letter-recognition-normalized-output.csv letter-recognition-enn-output.csv
+
+IB2 Algorithm
+
+Execute in the console, the program will prompt the user to type the paths for the input and output files:
+
+e.g.
+python ib2.py
+Enter the path to the input CSV file:
+(type file-name.csv)
+Enter the path to the output CSV file:
+(type file-name.csv)
